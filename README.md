@@ -1,5 +1,3 @@
-<link rel="shortcut icon" type="image/png" href="/favicon-16x16.png">
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/brianamarie/test-the-tests/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
