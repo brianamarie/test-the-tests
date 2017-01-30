@@ -4,3 +4,4 @@ ruby '2.4.0'
 
 gem 'jekyll'
 gem 'html-proofer'
+gem "github-pages", group: :jekyll_plugins
