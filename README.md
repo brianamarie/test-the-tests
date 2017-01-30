@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/png" href="/favicon.png">
+<link rel="shortcut icon" type="image/png" href="/favicon-16x16.png">
 
 ## Welcome to GitHub Pages
 
